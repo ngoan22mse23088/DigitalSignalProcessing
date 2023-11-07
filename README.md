@@ -4,7 +4,7 @@ FPT SCHOOL OF BUSINESS (FSB HO CHI MNH) - FPT UNIVERSITY
 
 CLASS: MSE12#HCM
 
-SUBJECT: ADigital Signal Processing
+SUBJECT: Digital Signal Processing
 
 MSHV: 22MSE23088
 
