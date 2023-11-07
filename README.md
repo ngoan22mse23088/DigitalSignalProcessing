@@ -1,2 +1,2 @@
 # DigitalSignalProcessing
-Digital Signal Processing - Dr.Nguyen Ngoc Truong Minh
+Digital Signal Processing - Associate Professor, Ph.D.Ho Van Khuong
